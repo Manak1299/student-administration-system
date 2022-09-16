@@ -1,0 +1,42 @@
+.invalid-feedback {
+  color: red;
+}
+
+.button-link {
+  color: white;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.main-page {
+  border-style: solid;
+}
+
+.student-details {
+  padding: 5px;
+}
+
+.st {
+  padding: 5px;
+}
+
+.father-details {
+  padding: 5px;
+}
+
+.mother-details {
+  padding: 5px;
+}
+
+.btn-form {
+  padding: 10px;
+  margin-left: 50px;
+}
