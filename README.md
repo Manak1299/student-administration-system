@@ -1,1 +1,2 @@
-# student-administration-system
+EduManage
+A school management system
